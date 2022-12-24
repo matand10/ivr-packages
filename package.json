@@ -1,0 +1,22 @@
+{
+  "name": "ivr-func",
+  "version": "1.0.0",
+  "description": "Calculation function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matand10/ivr-packages.git"
+  },
+  "keywords": [
+    "IVR"
+  ],
+  "author": "Matan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matand10/ivr-packages/issues"
+  },
+  "homepage": "https://github.com/matand10/ivr-packages#readme"
+}
